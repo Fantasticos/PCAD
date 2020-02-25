@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPCAD_LIB.a  CMakeFiles/PCAD_LIB.dir/PCAD.cpp.o
+/usr/bin/ranlib libPCAD_LIB.a
